@@ -1,5 +1,5 @@
 import random
-#u do cuz u need it
+#the main function
 def main():
     
     #to start the code, roll dice
@@ -33,5 +33,5 @@ def main():
 
 
 
-#we need this for whatever reason
+
 if __name__ == '__main__': main()
